@@ -38,7 +38,7 @@ root.mainloop()
 
 '''
 
-
+'''
 count = 0
 Temp_Sum = 0
 Ret_Sum = 0
@@ -67,3 +67,5 @@ while count != 1000000:
 
 Print_Sum = Temp_Sum / count
 print (Print_Sum)
+'''
+
